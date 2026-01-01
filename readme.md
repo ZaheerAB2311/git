@@ -1,5 +1,5 @@
 # git course
 this is a completee course
 
-# this is chnge from feature branch
-# ameera is not give respect to me
+# this is chnge from from bugs 2
+# bugs 2 is not wntaed
